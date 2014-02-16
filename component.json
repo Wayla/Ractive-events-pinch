@@ -2,7 +2,7 @@
         "name": "ractive-events-pinch",
         "repo": "Wayla/Ractive-events-pinch",
         "description": "Ractive-events-pinch",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "keywords": [],
         "dependencies": {
             "EightMedia/hammer.js": "*",
